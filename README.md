@@ -1,3 +1,4 @@
+IMP: "MAKE SURE TO USE *PYTHON v3.11* else mediapipe would cause error"
 This is a pose estimation/detection system.
 The folder "Pose" consists of video which will being used in the code.
 Make sure to keep the module file in the same folder in which the code is being used.
